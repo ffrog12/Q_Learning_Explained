@@ -20,3 +20,6 @@ Run 'python q_learning.py' in terminal
 ## Credits
 
 Credits for this code go to [mustafa](https://medium.com/@m.alzantot). I've merely created a wrapper to get people started. 
+
+## Best Code to the challenge is here
+https://www.youtube.com/watch?v=pN7ETkOizGM
